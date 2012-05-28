@@ -1,0 +1,7 @@
+# List of hosts generating fake referrers ordered by the number of hits
+# Format: <nb of hits>,<hostname>
+92,hosted-by.altushost.com
+72,unknown.altushost.com
+21,14.26.100.94.king-servers.com
+1,ppp85-141-144-145.pppoe.mtu-net.ru
+1,dslc-082-082-153-163.pools.arcor-ip.net
